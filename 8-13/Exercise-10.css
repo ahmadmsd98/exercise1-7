@@ -1,0 +1,22 @@
+body{
+
+
+    background-color:green;
+}
+
+h1 {
+
+    border: 10px solid yellow;
+    padding: 140px;
+    color: white;
+    text-align: center;
+    
+}
+div{
+    border: 10px solid yellow;
+    padding:20px; 
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+    
+}
+

@@ -1,0 +1,16 @@
+div {
+    display: inline-block;
+    border: black solid 2px ;
+    width: 50Px;
+    height: 50px;
+    background-color:yellow;
+    }
+    
+    div:nth-of-type(2n)
+    {
+
+    margin-bottom: -3%;
+    background-color:green;
+    
+    
+    }

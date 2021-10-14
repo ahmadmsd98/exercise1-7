@@ -1,0 +1,17 @@
+
+    div {
+        display: inline-block;
+        border: black solid 2px ;
+        width: 40Px;
+        height: 20px;
+        text-align: center;
+        font-weight: bold;
+        background-color: red;
+        color: white;
+        padding:auto;
+        }
+        
+        div:nth-of-type(even)
+        {
+        display: none;
+        }
